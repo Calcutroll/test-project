@@ -1,0 +1,4 @@
+The number of russian tweets is:	697
+The number of tweets from Aug 2016 are:	0
+The number of tweets containing a retweet is:	2
+The number of tweets mentioning game of thrones is:	4
